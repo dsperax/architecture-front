@@ -1,7 +1,13 @@
+# Resultado / Result:
+
+[Conclusão/Conclusion](https://medium.com/@dsperax/front-end-architecture-16df423eace2)
+
+[Projeto em react com arquitetura/React design with architecture](https://github.com/dsperax/architecture-front/tree/main/poc-modular-architecture-react)
+
 # arquitetura de front end
 Pós-graduação: arquitetura de software distribuido
 
-- Conclusões pessoais:
+- Notas pessoais:
 
 css: 
 Dentre as opções, achei mais interessante fazer css funcional, como por exempo .tl para text-align: left, OOCSS (css orientado por objetos) ou por meio de css in js/ts quando aplicável (recomendo em angular por meio do component styles nativo do próprio angular, pois utiliza typescript).
@@ -19,7 +25,7 @@ angular: sistemas grandes com muitas páginas e navegação ou sistemas de geren
 # architecture-front
 post graduate: distributed software architecture
 
-- Personal conclusions:
+- Personal notes:
 
 css:
 Among the options, I found it more interesting to make functional css, such as .tl for text-align: left, OOCSS (object-oriented css) or through css in js/ts when applicable (I recommend in angular through component styles native to angular itself, as it uses typescript).
@@ -31,7 +37,3 @@ CSS Architecture: I recommend the modular architecture due to the ease of code r
 framework:
 react: great for pages with similar components or spa. In it, it is simple to perform the componentization of the elements and reuse.
 angular: large systems with many pages and navigation or management systems with many functions, such as portals and websites with several screens.
-
-## Resultado / Result:
-
-[Projeto em react com arquitetura/React design with architecture](https://github.com/dsperax/architecture-front/tree/main/poc-modular-architecture-react)
