@@ -1,8 +1,6 @@
 # Resultado / Result:
 
-## Medium => [Conclusão/Conclusion](https://medium.com/@dsperax/front-end-architecture-16df423eace2)
-
-[Projeto em react com arquitetura/React design with architecture](https://github.com/dsperax/architecture-front/tree/main/poc-modular-architecture-react)
+### Medium -> [Conclusão/Conclusion](https://medium.com/@dsperax/front-end-architecture-16df423eace2)
 
 ## arquitetura de front end - Notas pessoais
 Pós-graduação: arquitetura de software distribuido
@@ -33,3 +31,5 @@ CSS Architecture: I recommend the modular architecture due to the ease of code r
 framework:
 react: great for pages with similar components or spa. In it, it is simple to perform the componentization of the elements and reuse.
 angular: large systems with many pages and navigation or management systems with many functions, such as portals and websites with several screens.
+
+### Project -> [Projeto em react com arquitetura/React design with architecture](https://github.com/dsperax/architecture-front/tree/main/poc-modular-architecture-react)
