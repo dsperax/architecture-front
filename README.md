@@ -4,10 +4,8 @@
 
 [Projeto em react com arquitetura/React design with architecture](https://github.com/dsperax/architecture-front/tree/main/poc-modular-architecture-react)
 
-# arquitetura de front end
+## arquitetura de front end - Notas pessoais
 Pós-graduação: arquitetura de software distribuido
-
-- Notas pessoais:
 
 css: 
 Dentre as opções, achei mais interessante fazer css funcional, como por exempo .tl para text-align: left, OOCSS (css orientado por objetos) ou por meio de css in js/ts quando aplicável (recomendo em angular por meio do component styles nativo do próprio angular, pois utiliza typescript).
@@ -22,10 +20,8 @@ angular: sistemas grandes com muitas páginas e navegação ou sistemas de geren
 
 <hr>
 
-# architecture-front
+## architecture-front - Personal notes
 post graduate: distributed software architecture
-
-- Personal notes:
 
 css:
 Among the options, I found it more interesting to make functional css, such as .tl for text-align: left, OOCSS (object-oriented css) or through css in js/ts when applicable (I recommend in angular through component styles native to angular itself, as it uses typescript).
