@@ -1,6 +1,6 @@
 # Resultado / Result:
 
-[Conclusão/Conclusion](https://medium.com/@dsperax/front-end-architecture-16df423eace2)
+## Medium => [Conclusão/Conclusion](https://medium.com/@dsperax/front-end-architecture-16df423eace2)
 
 [Projeto em react com arquitetura/React design with architecture](https://github.com/dsperax/architecture-front/tree/main/poc-modular-architecture-react)
 
